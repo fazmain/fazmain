@@ -10,7 +10,7 @@
 ## 🛠 Skills
 - **Languages:** JavaScript, Python, C++, R
 - **Frameworks/Libraries:** React, NodeJS, ExpressJS
-- **Tools & Technologies:** Git, Firebase, AWS
+- **Tools & Technologies:** Git, Firebase
 
 ## 🔍 Where to Find Me
 - **LinkedIn:** https://www.linkedin.com/in/faiazmain
