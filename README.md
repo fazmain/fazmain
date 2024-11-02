@@ -1,9 +1,9 @@
 # Hi there, I am Faiaz (he/him)! 👋
 
-## Currently working on building an AI outfit recommendation app based on your wardrobe and style preferences.
+## Currently working on MicroLLM models for personalised on-device autocomplete and response prediction.
 
 ## 🚀 About Me
-🎓 CS @ Wooster (Class of 2026)
+🎓 CS Junior @ Wooster (Class of 2026)
 
 👨‍💻 I enjoy working on my passion projects from ideation - to development - and shipping lean MVPs
 
