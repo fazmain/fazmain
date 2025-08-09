@@ -1,20 +1,20 @@
 # Hi there, I am Faiaz (he/him)! 👋
 
-## Currently working on MicroLLM models for personalised on-device autocomplete and response prediction.
+## Currently working with MCP Servers and Explainable AI
 
 ## 🚀 About Me
-🎓 CS Junior @ Wooster (Class of 2026)
+🎓 Computer Science Senior @ Wooster
 
 👨‍💻 I enjoy working on my passion projects from ideation - to development - and shipping lean MVPs
 
 ## 🛠 Skills
 - **Languages:** JavaScript, Python, C++, R
-- **Frameworks/Libraries:** React, NodeJS, ExpressJS
-- **Tools & Technologies:** Git, Firebase
+- **Frameworks/Libraries:** React, Node.js, Express.js, Flask, Huggingface Transformers
+- **Tools & Technologies:** Firebase, Docker, Linux
 
 ## 🔍 Where to Find Me
 - **LinkedIn:** https://www.linkedin.com/in/faiazmain
-- **Portfolio:** www.fazmain.com
+- **Portfolio:** https://www.fazmain.com
 - **Email:** fazmain25@wooster.edu
 
 ## ✨ Fun Fact
